@@ -1,0 +1,25 @@
+// Sample data in json format, exported from MongoDB
+
+{"_id":{"$oid":"5b6f79c0711c9823f0f4548a"},"empid":"100000","empname":"James Butt","email":"jbutt@gmail.com","number":"504-621-8927","position":"CEO"}
+{"_id":{"$oid":"5b6f7a6d711c9823f0f4548b"},"empid":"210000","empname":"Josephine Darakjy","email":"josephine_darakjy@darakjy.org","number":"810-292-9388","manager":"James Butt","position":"CFO"}
+{"_id":{"$oid":"5b6f7aaa711c9823f0f4548c"},"empid":"220000","empname":"Art Venere","email":"art@venere.org","number":"856-636-8749","position":"COO","manager":"James Butt"}
+{"_id":{"$oid":"5b6f7b0b711c9823f0f4548d"},"empid":"230000","empname":"Lenna Paprocki","email":"lpaprocki@hotmail.com","number":"907-385-4412","position":"CMO","manager":"James Butt"}
+{"_id":{"$oid":"5b6f7b71711c9823f0f4548e"},"empid":"311000","empname":"Donette Foller","email":"donette.foller@cox.net","number":"513-570-1893","position":"FP\u0026A Manager","manager":"Josephine Darakjy"}
+{"_id":{"$oid":"5b6f7bdb711c9823f0f4548f"},"empid":"312000","empname":"Simona Morasca","email":"simona@morasca.com","number":"419-503-2484","position":"Controller","manager":"Josephine Darakjy"}
+{"_id":{"$oid":"5b6f7c0e711c9823f0f45490"},"empid":"313000","empname":"Mitsue Tollner","email":"mitsue_tollner@yahoo.com","number":"773-573-6914","manager":"Josephine Darakjy","position":"Treasurer"}
+{"_id":{"$oid":"5b6f7e22711c9823f0f45491"},"empid":"321000","empname":"Leota Dilliard","email":"leota@hotmail.com","number":"408-752-3500","position":"VP Operations","manager":"Art Venere"}
+{"_id":{"$oid":"5b6f7e52711c9823f0f45492"},"empid":"322000","empname":"Sage Wieser","email":"sage_wieser@cox.net","number":"605-414-2147","position":"VP Technology Development","manager":"Art Venere"}
+{"_id":{"$oid":"5b6f7e92711c9823f0f45493"},"empid":"323000","empname":"Kris Marrier","email":"kris@gmail.com","number":"410-655-8723","position":"VP Supply Chain","manager":"Art Venere"}
+{"_id":{"$oid":"5b6f7ee0711c9823f0f45494"},"empid":"331000","empname":"Minna Amigon","email":"minna_amigon@yahoo.com","number":"215-874-1229","position":"VP Brand","manager":"Lenna Paprocki"}
+{"_id":{"$oid":"5b6f7f0c711c9823f0f45495"},"empid":"332000","empname":"Abel Maclead","email":"amaclead@gmail.com","number":"631-335-3414","position":"VP Commercial Sales","manager":"Lenna Paprocki"}
+{"_id":{"$oid":"5b6f7f43711c9823f0f45496"},"empid":"333000","empname":"Kiley Caldarera","email":"kiley.caldarera@aol.com","number":"310-498-5651","position":"VP Residential Sales","manager":"Lenna Paprocki"}
+{"_id":{"$oid":"5b6f7fd5711c9823f0f45497"},"empid":"411100","empname":"Graciela Ruta","email":"gruta@cox.net","number":"440-780-8425","position":"Accountant","manager":"Simona Morasca"}
+{"_id":{"$oid":"5b6f800c711c9823f0f45498"},"empid":"411200","empname":"Cammy Albares","email":"calbares@gmail.com","number":"956-537-6195","position":"Accountant","manager":"Simona Morasca"}
+{"_id":{"$oid":"5b6f804c711c9823f0f45499"},"empid":"411300","empname":"Mattie Poquette","email":"mattie@aol.com","number":"602-277-4385","position":"Accountant","manager":"Simona Morasca"}
+{"_id":{"$oid":"5b6f8087711c9823f0f4549a"},"empid":"412100","empname":"Meaghan Garufi","email":"meaghan@hotmail.com","number":"931-313-9635","position":"Director of Finance","manager":"Mitsue Tollner"}
+{"_id":{"$oid":"5b6f80ee711c9823f0f4549b"},"empid":"412200","empname":"Gladys Rim","email":"gladys.rim@rim.org","number":"414-661-9598","position":"Hedging Manager","manager":"Mitsue Tollner"}
+{"_id":{"$oid":"5b6f8138711c9823f0f4549c"},"empid":"412300","empname":"Yuki Whobrey","email":"yuki_whobrey@aol.com","number":"313-288-7937","position":"Director of Production","manager":"Leota Dilliard"}
+{"_id":{"$oid":"5b6f8179711c9823f0f4549d"},"empid":"413100","empname":"Fletcher Flosi","email":"fletcher.flosi@yahoo.com","number":"815-828-2147","position":"Director of Plant Operations","manager":"Leota Dilliard"}
+{"_id":{"$oid":"5b6f82ae711c9823f0f4549e"},"empid":"413200","empname":"Bette Nicka","email":"bette_nicka@cox.net","number":"610-545-3615","manager":"Meaghan Garufi","position":"Capital Manager"}
+{"_id":{"$oid":"5b6f8355711c9823f0f4549f"},"position":"Capital Analyst","manager":"Bette Nicka","empid":"413300","empname":"Veronika Inouye","email":"vinouye@aol.com","number":"408-540-1785"}
+{"_id":{"$oid":"5b6f837f711c9823f0f454a0"},"empid":"413400","empname":"Willard Kolmetz","email":"willard@hotmail.com","number":"972-303-9197","position":"Capital Analyst","manager":"Bette Nicka"}
