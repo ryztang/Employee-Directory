@@ -2,7 +2,7 @@
 
 A website that manages an Employee Directory, displayed as a table. The data fields for each employee are Employee ID, Name, Email, Number, Position, and Manager. On the website, all CRUD (create, retrieve, update, delete) actions can be performed on employees in the directory (data persisted in MongoDB). Users can also filter and sort on each data field. If users attempt to add an invalid employee (e.g. no name or ID, employee already exists, or invalid manager), a modal window with an error message will be displayed on the screen. Users are able to clear all input fields as well.
 
-This application uses the MEAN stack, so the user must install Node.js and Express.js (using npm) as well as MongoDB. AngularJS is linked to html using its CDN. The server.js file connects to a MongoDB collection called employeeList so all data must be saved there so it can be retrieved.
+This application uses the MEAN stack, so the user must install Node.js and Express.js (using npm) as well as MongoDB. AngularJS is linked to index.html using its CDN. The server.js file connects to a MongoDB collection called employeeList so all data must be saved there so it can be retrieved.
 
 Note: node_modules folder is missing from this repository because it contains too many files (ensure those are installed before using this application)
 
